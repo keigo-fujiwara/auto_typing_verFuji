@@ -48,7 +48,7 @@ https://www.google.com/?hl=ja
 ### 2. auto_been_typing.py の実行
 
 ```bash
-python auto_typing.py
+python auto_been_typing.py
 ```
 実行すると以下のURLが開きます：
 https://typing.be-engineer.tech
