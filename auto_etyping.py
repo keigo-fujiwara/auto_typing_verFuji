@@ -46,4 +46,6 @@ print("===============")
     # driver.find_element("id", "replay_btn").click() 無限ループ用
 
 input("終了する場合は入力する（何でもOK）：")
-# 「Ctrl+C」で終了 無限ループ用（上記のコメントアウトを忘れない）
+# windows「Ctrl+C」。macos「command+C」で終了 無限ループ用（上記のコメントアウトを忘れない）
+
+driver.quit()
